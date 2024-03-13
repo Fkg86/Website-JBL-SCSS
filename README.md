@@ -14,4 +14,4 @@ A responsive SCSS website project was developed.
 
 # GIF
 
-![](JBL Website.gif)
+![](JBL_Website.gif)
